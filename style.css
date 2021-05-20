@@ -1,0 +1,36 @@
+<style>
+  
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgba(113, 175, 238, 0.322);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:floralwhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+      background-color: rgba(18, 178, 206, 0.842);
+  }
+
+  p {
+   font-size: 22px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   max-width: 1000px;
+   text-aligh: center;
+   line-height: 32px;
+   color: whitesmoke;
+}
+
+</style>
